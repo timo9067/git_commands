@@ -34,3 +34,27 @@ This being said, please follow this workflow to ensure we're all on the same pag
 7. Time to change it up. Open your browser and go to github.com, there you'll have to look at **your repositories** and select "git_commands".
 8. Once there, create a pull request, so that your latest commit will be integrated into the main branch, aswell as your branch and its subsequent files.
 9. Almost done! Once your pull request is done, it will have to be approved by a user with such privileges. In this case, all of us have these privileges, so navigate to the pull request and accept it/merge. If there are any conflicts make sure to resolve them before proceeding.
+
+
+### INSPECT & COMPARE
+*Examining logs, diﬀs and object information*
+
+**git log**
+
+    show the commit history for the currently active branch
+
+**git log branchB..branchA**
+
+    show the commits on branchA that are not on branchB
+
+**git log --follow [file]**
+
+    show the commits that changed file, even across renames
+
+**git diff branchB...branchA**
+
+    show the diﬀ of what is in branchA that is not in branchB
+
+**git show [SHA]**
+
+    show any object in Git in human-readable format
