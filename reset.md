@@ -1,3 +1,3 @@
 # Command $git reset
 
-This is the beautiful command that allow s you to ...
+This is the beautiful command that allow s you to reset the changes made
