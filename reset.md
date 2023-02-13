@@ -1,0 +1,3 @@
+# Command $git reset
+
+This is the beautiful command that allow s you to ...
