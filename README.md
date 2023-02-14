@@ -10,6 +10,7 @@
 8. `Bogdan - remote`
 9. `Siwar - push`
 10. `Jose - clone`
+11. `Julien - checkout`
 
 
 **If your name is missing, please add it to the list along with a command of your choice**
