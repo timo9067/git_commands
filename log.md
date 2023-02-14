@@ -24,6 +24,9 @@ You can think of this as a set operation. Commits reachable from any of the comm
 
 >show the commits that changed file, even across renames
 
+- `--stat`
+
+>Shows statistics about the log
 
 ### Examples
 ---
