@@ -134,5 +134,7 @@ $ git switch topic/wip          (3)
 1. You have made some commits, but realize they were premature to be in the `master` branch. You want to continue polishing them in a topic branch, so create `topic/wip` branch off of the current HEAD.
 
 2. Rewind the master branch to get rid of those three commits.
+2. Rewind the master branch to get rid of those three commits.
 
+3. Switch to `topic/wip` branch and keep working.
 3. Switch to `topic/wip` branch and keep working.
